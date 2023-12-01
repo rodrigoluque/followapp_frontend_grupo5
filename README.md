@@ -1,2 +1,2 @@
 # follow_app
-App de gestión de posología
+App de medicina.
