@@ -1,2 +1,2 @@
 # followapp_grupo5
-App de medician
+App de medicina
