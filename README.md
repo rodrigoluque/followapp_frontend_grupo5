@@ -1,2 +1,2 @@
-# followapp_grupo5
-App de medicina
+# follow_app
+App de gestión de posología

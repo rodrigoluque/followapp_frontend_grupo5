@@ -1,0 +1,50 @@
+.form-group{
+    padding: 10px;
+}
+.logo-container {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  width: 100%;
+  height: 100%;
+}
+
+.logo-register {
+  width: 200px;
+  height: 200px;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.white-bg {
+    background: rgba(255,255,255,1);
+}
+
+.login-btn {
+    --background: #1226aa;
+    --background-hover: #162dc5;
+    --background-activated: #67756e;
+    --background-focused: #1a1df0;
+}
+
+ion-input.custom {
+    --background: #ffffff;
+    --color: #adadad;
+    --placeholder-color: #ddd;
+    --placeholder-opacity: 0.8;
+  }
+
+ion-title.blue-menu-title {
+    background-color: #1226aa;
+}
+
+ion-toolbar {
+    --background : #1226aa;
+}
